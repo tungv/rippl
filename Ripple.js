@@ -100,6 +100,9 @@ class Ripple extends React.Component {
             if (typeof onClick === "function") {
               onClick(e);
             }
+            if (typeof onlyChild.props.onClick === "function") {
+              onlyChild.props.onClick(e);
+            }
           }
         })}
         {active && ReactDOM.createPortal(this.buildRipple(), document.body)}
