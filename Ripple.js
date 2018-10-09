@@ -23,6 +23,9 @@ class Ripple extends React.Component {
       if (this.state.start) {
         containerStyle.mouseEvent = "none";
       }
+      if (this.props.rounded) {
+        containerStyle.borderRadius = "50%";
+      }
 
       const size = Math.max(rect.width, rect.height);
 
