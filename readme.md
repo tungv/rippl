@@ -1,7 +1,8 @@
 # Ripple effect for React
 
-This works with any type of element, from `<div />`, `<button />` to `<tr />` or `<td />`. Server-side
-rendering works fine too.
+This works with any type of element, from `<div />`, `<button />` to `<tr />` or `<td />`. Server-side rendering works fine too.
+
+Demo: https://codesandbox.io/s/k5vo27469r
 
 ## 1. Installation
 
