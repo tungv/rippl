@@ -2,9 +2,15 @@
   "name": "rippl",
   "version": "1.0.0",
   "main": "dist/Ripple.js",
+  "files": [
+    "dist"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "react": ">= 16",
     "react-dom": ">= 16"
+  },
+  "devDependencies": {
+    "microbundle": "^0.6.0"
   }
 }
