@@ -5,6 +5,9 @@
   "files": [
     "dist"
   ],
+  "scripts": {
+    "prepare": "rm -rf dist && microbundle Ripple.js --jsx React.createElement"
+  },
   "license": "MIT",
   "peerDependencies": {
     "react": ">= 16",
