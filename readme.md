@@ -1,5 +1,5 @@
 [![codebeat badge](https://codebeat.co/badges/e8d05682-ba2a-41b2-b4e4-e0ffcca78444)](https://codebeat.co/projects/github-com-tungv-rippl-master)
-![npm](https://img.shields.io/npm/dt/rippl.svg) 
+[![npm](https://img.shields.io/npm/dt/rippl.svg)](http://npm.im/rippl)
 [![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/rippl.svg)](https://bundlephobia.com/result?p=rippl)
 ![zero dependencies](https://img.shields.io/badge/dependencies-0-green.svg)
 
